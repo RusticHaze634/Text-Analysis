@@ -1,4 +1,4 @@
-<h3 align="center">Text Analytics</h3> 
+<h3 align="center">Text Analytics</h3> :thought_balloon:
 <h3 align="center">( Sentiment Classification  )</h3> 
 
 ### ABSTRACT :
