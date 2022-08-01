@@ -25,7 +25,21 @@ The goal is to classify the sentiment of each sentence into "positive" or "negat
 ```
 ### STEPS:
 ----------------
-1. 
+1. EDA and Pre-processing
+  - Bag-of-Words method
+  - Feature Extraction
+  - Removing the low frequency words
+  - Count the features
+  - Remove Stop Words
+  - Stemming
+  
+2. Balancing the unbalanced data classes
+3. Naive Bayes Model for sentiment Classification
+   - Dataset segmentation 
+   - Model building
+   - Prediction test
+   - Classification report
+  
 
 ### DATA VISUALIZATION:
 ----------------
