@@ -3,6 +3,7 @@
 :thought_balloon:
 
 ### ABSTRACT :
+----------------
 _This is a text classification task - sentiment classification.  
 Every document (a line in the data file) is a sentence extracted from social media (blogs).   
 The goal is to classify the sentiment of each sentence into "positive" or "negative"._  
