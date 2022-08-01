@@ -16,7 +16,13 @@ The goal is to classify the sentiment of each sentence into "positive" or "negat
 
 ### Solution Approach:
 ```
- **Text Analytics** 
+ Text Analytics
      NLP + ML (Naive Bayes Theoerm)  
      Ensemble Learning
 ```
+
+### DATA VISUALIZATION:
+
+- Positive and Negative Class-wise Data distribution Bar Plot 
+
+![attachment:]()
