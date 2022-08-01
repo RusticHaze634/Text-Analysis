@@ -9,6 +9,7 @@ Every document (a line in the data file) is a sentence extracted from social med
 The goal is to classify the sentiment of each sentence into "positive" or "negative"._  
 
 ### DATASET:
+----------------
 - The training data contains 7086 sentences, already labeled with 1 (positive sentiment) or 0 (negative sentiment).
 - The test data contains 33052 sentences that are unlabeled.
 - The submission should be a .txt file with 33052 lines.
@@ -16,6 +17,7 @@ The goal is to classify the sentiment of each sentence into "positive" or "negat
 
 
 ### Solution Approach:
+----------------
 ```
  Text Analytics
      NLP + ML (Naive Bayes Theoerm)  
@@ -23,6 +25,7 @@ The goal is to classify the sentiment of each sentence into "positive" or "negat
 ```
 
 ### DATA VISUALIZATION:
+----------------
 
 - Sample Data:
 
