@@ -43,6 +43,10 @@ The goal is to classify the sentiment of each sentence into "positive" or "negat
 
 ![attachment:f%20of%20words.png](https://github.com/RusticHaze634/Text-Analysis/blob/main/Images/f%20of%20words.png)
 
+- Positive and Negative Class-wise Data Distribution After Balancing Data-Classes:
+
+![attachment:01%20filtered.png](https://github.com/RusticHaze634/Text-Analysis/blob/main/Images/01%20filtered.png)
+
 ### RESULTS:
 ----------------
 
