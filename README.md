@@ -25,7 +25,7 @@ The goal is to classify the sentiment of each sentence into "positive" or "negat
 ```
 ### STEPS:
 ----------------
-1. EDA and Pre-processing
+**1. EDA and Pre-processing**
   - Bag-of-Words method
   - Feature Extraction
   - Removing the low frequency words
@@ -33,12 +33,12 @@ The goal is to classify the sentiment of each sentence into "positive" or "negat
   - Remove Stop Words
   - Stemming
   
-2. Balancing the unbalanced data classes
-3. Naive Bayes Model for sentiment Classification
-   - Dataset segmentation 
-   - Model building
-   - Prediction test
-   - Classification report
+**2. Balancing the unbalanced data classes**
+**3. Naive Bayes Model for sentiment Classification**
+  - Dataset segmentation 
+  - Model building
+  - Prediction test
+  - Classification report
   
 
 ### DATA VISUALIZATION:
@@ -71,3 +71,6 @@ The goal is to classify the sentiment of each sentence into "positive" or "negat
 - Confusion Matrix
 
 ![attachment:confusion%20matrix.png](https://github.com/RusticHaze634/Text-Analysis/blob/main/Images/confusion%20matrix.png)
+
+- The Prediction Accuracy Score for Training Data : **99.37%**
+- The Prediction Accuracy Score for Testing Data : **97.91%**
