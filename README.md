@@ -16,7 +16,7 @@ The goal is to classify the sentiment of each sentence into "positive" or "negat
 - In each line, there should be exactly one integer, 0 or 1, according to the classification results.
 
 
-### Solution Approach:
+### SOLUTION APPROACH:
 ----------------
 ```
  Text Analytics
