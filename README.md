@@ -27,15 +27,15 @@ The goal is to classify the sentiment of each sentence into "positive" or "negat
 ### DATA VISUALIZATION:
 ----------------
 
-- Sample Data:
+**- Sample Data:**
 
 ![attachment:sample%20data.png](https://github.com/RusticHaze634/Text-Analysis/blob/main/Images/sample%20data.png)
 
-- Positive and Negative Class-wise Data Distribution Bar Plot 
+**- Positive and Negative Class-wise Data Distribution Bar Plot**
 
 ![attachment:01.png](https://github.com/RusticHaze634/Text-Analysis/blob/main/Images/01.png)
 
-- The occurances of features (column wise)
+**- The occurances of features (column wise)**
 
 ![attachment:f%20of%20words.png](https://github.com/RusticHaze634/Text-Analysis/blob/main/Images/f%20of%20words.png)
 
