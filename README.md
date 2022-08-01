@@ -36,7 +36,6 @@ The goal is to classify the sentiment of each sentence into "positive" or "negat
 ![attachment:01.png](https://github.com/RusticHaze634/Text-Analysis/blob/main/Images/01.png)
 
 **- The occurances of features (column wise)**
-
 ![attachment:f%20of%20words.png](https://github.com/RusticHaze634/Text-Analysis/blob/main/Images/f%20of%20words.png)
 
 
