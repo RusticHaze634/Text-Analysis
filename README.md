@@ -28,8 +28,8 @@ The goal is to classify the sentiment of each sentence into "positive" or "negat
 ----------------
 
 - Sample Data:
-
 ![attachment:sample%20data.png](https://github.com/RusticHaze634/Text-Analysis/blob/main/Images/sample%20data.png)
+
 
 - Positive and Negative Class-wise Data Distribution Bar Plot :
 
@@ -39,7 +39,12 @@ The goal is to classify the sentiment of each sentence into "positive" or "negat
 
 ![attachment:f%20of%20words.png](https://github.com/RusticHaze634/Text-Analysis/blob/main/Images/f%20of%20words.png)
 
-
 ### RESULTS :
+----------------
+- The Table with Results:
 
 ![attachment:Result%20table.png](https://github.com/RusticHaze634/Text-Analysis/blob/main/Images/Result%20table.png)
+
+- Confusion Matrix
+
+![attachment:confusion%20matrix.png](https://github.com/RusticHaze634/Text-Analysis/blob/main/Images/confusion%20matrix.png)
