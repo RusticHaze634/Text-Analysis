@@ -23,11 +23,15 @@ The goal is to classify the sentiment of each sentence into "positive" or "negat
      NLP + ML (Naive Bayes Theoerm)  
      Ensemble Learning
 ```
+### STEPS:
+----------------
+1. 
 
 ### DATA VISUALIZATION:
 ----------------
 
 - Sample Data:
+
 ![attachment:sample%20data.png](https://github.com/RusticHaze634/Text-Analysis/blob/main/Images/sample%20data.png)
 
 
@@ -39,8 +43,9 @@ The goal is to classify the sentiment of each sentence into "positive" or "negat
 
 ![attachment:f%20of%20words.png](https://github.com/RusticHaze634/Text-Analysis/blob/main/Images/f%20of%20words.png)
 
-### RESULTS :
+### RESULTS:
 ----------------
+
 - The Table with Results:
 
 ![attachment:Result%20table.png](https://github.com/RusticHaze634/Text-Analysis/blob/main/Images/Result%20table.png)
